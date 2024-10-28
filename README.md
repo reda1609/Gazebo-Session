@@ -38,3 +38,8 @@
     + Integrating Gazebo with ROS
     + Understanding Sensors and Plugins
 
+## Resources
+1. Building a mobile robot from scratch with ROS -> [link](https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT)
+2. ROS 2 Turtorials -> [link](https://www.youtube.com/playlist?list=PLO89phzZmnHi5GCama8rS0kg3jcEXTq7I)
+3. Gazebo Tutorials -> [link](https://www.youtube.com/watch?v=Y2LRHl79b3g&list=PLNw2RD-1J5YYvFGiMafRD_axHrBUGvuIg&index=6)
+4. Turtlebot3 packages (Don't forget to choose the branch of your ROS distro) -> [link](https://github.com/ROBOTIS-GIT/turtlebot3)
