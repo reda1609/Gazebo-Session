@@ -30,6 +30,7 @@ install(DIRECTORY
 
 install(PROGRAMS
   scripts/camera_node.py
+  scripts/test_node.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
